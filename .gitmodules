@@ -4,3 +4,6 @@
 [submodule "external/eas1er"]
 	path = external/eas1er
 	url = git@github.com:emhai/Easi3R.git
+[submodule "external/dust3r"]
+	path = external/dust3r
+	url = git@github.com:emhai/dust3r.git

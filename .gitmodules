@@ -1,0 +1,6 @@
+[submodule "external/ViewCrafter"]
+	path = external/ViewCrafter
+	url = https://github.com/Drexubery/ViewCrafter
+[submodule "external/Easi3R"]
+	path = external/Easi3R
+	url = https://github.com/Inception3D/Easi3R.git

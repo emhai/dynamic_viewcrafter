@@ -7,3 +7,9 @@
 [submodule "external/dust3r"]
 	path = external/dust3r
 	url = git@github.com:emhai/dust3r.git
+[submodule "external/Easi3R"]
+	path = external/Easi3R
+	url = git@github.com:emhai/Easi3R
+[submodule "external/ViewCrafter"]
+	path = external/ViewCrafter
+	url = git@github.com:emhai/ViewCrafter

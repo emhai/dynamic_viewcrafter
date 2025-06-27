@@ -1,6 +1,6 @@
-[submodule "external/ViewCrafter"]
-	path = external/ViewCrafter
-	url = https://github.com/Drexubery/ViewCrafter
-[submodule "external/Easi3R"]
-	path = external/Easi3R
-	url = https://github.com/Inception3D/Easi3R.git
+[submodule "external/viewcrafter"]
+	path = external/viewcrafter
+	url = git@github.com:emhai/ViewCrafter.git
+[submodule "external/eas1er"]
+	path = external/eas1er
+	url = git@github.com:emhai/Easi3R.git
